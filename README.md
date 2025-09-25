@@ -152,19 +152,7 @@ npm run dev
 
 **XP Core Values**
 
-### Contributinons 
-[Contributions of Each Team Member in Detail in contributions.md](https://github.com/gopinathsjsu/team-project-20201-synergy/blob/main/project-journal/contributions.md)
-**Tushar Singh**
-- Frontend UI: Login, Registration, Search, Home, Profile
-- Backend: Booking flow, booking APIs, conflict resolution
 
-**Rajeev Ranjan Chaurasia**
-- Backend setup, AWS DevOps, CI/CD, Cognito auth, spatial queries
-Email Integration, Restaurant Manager portal
-
-**Jeevan Kurian**
-- Project Confluence documentation, Admin portal (UI + backend)
-Ratings/Reviews system, Admin analytics,Writing Readme ( UI + Backend)
 
 ### XP Core Values
 - Communication: Stand-ups, Figma, Confluence, transparency
